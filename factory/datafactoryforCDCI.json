@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryforCDCI",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c5d3de88-974f-4d49-b0b2-201cb68c9bdf",
+		"tenantId": "8887f694-09ef-44d2-a391-d352aa21b3d6"
+	}
+}
