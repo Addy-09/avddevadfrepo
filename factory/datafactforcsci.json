@@ -1,0 +1,15 @@
+{
+	"name": "datafactforcsci",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fdd0667-124a-465c-bdd0-09f0151bf0b5",
+		"tenantId": "8887f694-09ef-44d2-a391-d352aa21b3d6"
+	}
+}
